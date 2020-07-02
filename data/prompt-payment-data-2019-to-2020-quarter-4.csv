@@ -1,0 +1,5 @@
+QuarterNo,DateFrom,DateTo,PercentageOfInvoicesPaidWithin5Days,PercentageOfInvoicesPaidWithin30Days,TotalAmountOfLiabilityToPay
+1,2019-04-01,2019-06-30,0.80,0.94,43.65
+2,2019-07-01,2019-09-30,0.74,0.93,0.00
+3,2019-10-01,2019-12-31,0.74,0.94,0.00
+4,2020-01-01,2020-03-31,0.72,0.92,0.00
